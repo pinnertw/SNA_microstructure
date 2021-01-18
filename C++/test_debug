@@ -1,0 +1,4 @@
+#Combien de test
+#Type de method, size, P0, T, m, quantile
+1
+3 10000000 35 14400 3 0

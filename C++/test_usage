@@ -1,0 +1,12 @@
+variables :
+    (how many tests)
+    (Q) (sub_Q) (size) (P0) (T) (m) (quant)
+
+Si une des variables n'est pas utilisé, il suffit de laisser 0 à la place.
+
+Les valeurs :
+    T : 14400
+    m : 1 ou 3
+    Q : 1 -> Monte-Carlo naif pour Q1-1
+        2 -> Monte-Carlo naif pour Q1-2
+        3 -> Monte-Carlo naif pour Q2-1
